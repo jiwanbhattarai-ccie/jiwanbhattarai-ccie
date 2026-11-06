@@ -18,6 +18,7 @@ CCIE #60261 || 9 X Cisco Certified | CEH | Mentor | Education Advocate | Buildin
 
 ---
 
+
 ### 🚀 Mission: 10,000 Skilled IT Engineers
 > *"Empowering 10,000+ IT Engineers through hands-on education, resilient infrastructure design, and mindful living."*
 
@@ -29,6 +30,54 @@ CCIE #60261 || 9 X Cisco Certified | CEH | Mentor | Education Advocate | Buildin
 - **Core Certifications:** `CCIE #60261` `CCNP` `CEH` `RHCSA` `RHCE` `CompTIA Security+`
 - **Networking & Security:** `BGP` `OSPF` `MPLS` `VXLAN` `EVPN` `Palo Alto` `Fortinet` `Cisco ASA`
 - **Data Center & Cloud:** `Cisco ACI` `NX-OS` `VMware vSphere` `Linux` `Python` `Ansible`
+
+---
+
+## 📝 Articles & Technical Writing
+
+I write practical, field-focused resources that turn technical knowledge and professional experience into structured learning for IT students and professionals.
+
+My work focuses on real-world troubleshooting, hands-on practice, interview preparation, and career readiness.
+
+### Featured Resources
+
+#### NOC Engineer Interview Preparation Guide
+**108 Real-World Scenarios from L1 to L3**
+
+A practical interview preparation resource for aspiring and working NOC engineers, structured around real-world scenarios across different support levels.
+
+[View Guide →](https://github.com/ITEN-Non-Profit/ITEN-Gyanverse/tree/main/professional-it-career/networking/interview-preparation/markdown/NOC-Engineer-Interview-Preparation-Guide.md)
+
+---
+
+#### Junior Network Engineer Assignments – Volume 1
+**A Hands-On Lab Guide from Networking Fundamentals to Switching**
+
+A practice-focused collection of assignments designed to help learners strengthen networking fundamentals through hands-on work.
+
+[View Guide →](https://github.com/ITEN-Non-Profit/ITEN-Gyanverse/tree/main/professional-it-career/networking/vendor/cisco/routing-and-switching/markdown/junior_network_engineer_assignments_volume_1.md)
+
+---
+
+#### Field Handbook for Diagnostic Log Analysis
+**Evidence-Based IT Troubleshooting with AI-Assisted Prompts**
+
+A field-oriented handbook focused on diagnostic log analysis, structured troubleshooting, and the practical use of AI-assisted prompts.
+
+[View Handbook →](https://github.com/ITEN-Non-Profit/ITEN-Gyanverse/tree/main/professional-it-career/diagnostic-runbook/markdown/Field_Handbook_for_Diagnostic_Log_Analysis.md)
+
+---
+
+#### Help Desk and Service Desk Pocket Interview Guide
+**86 Practical Interview Questions, Scenarios, Follow-Ups, and Revision Tools**
+
+A focused preparation guide for Help Desk and Service Desk roles, combining practical questions, scenarios, follow-ups, and revision material.
+
+[View Guide →](https://github.com/ITEN-Non-Profit/ITEN-Gyanverse/tree/main/professional-it-career/system-administration/interview-preparation/markdown/Help_Desk_Service_Desk_Pocket_Interview_Guide-Final.md)
+
+---
+
+🌐 **More writing & resources → [jiwanbhattarai.com](https://jiwanbhattarai.com/)**
 
 ---
 
