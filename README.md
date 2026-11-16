@@ -114,7 +114,11 @@ Learn with direction. Practice with purpose. Build skills that matter
 
 ## Start Here: From Learning to an IT Career
 From Class 1 through an IT career, explore one free, open library for interview guides, runbooks, certification prep, CV support, and career preparation.
-**[Explore ITEN-Gyanverse](https://github.com/ITEN-Non-Profit/ITEN-Gyanverse/blob/main/README.md)**
+
+**Explore [IT EDUCATION NEPAL GITHUB](https://github.com/ITEN-Non-Profit) | [ITEN-Gyanverse](https://github.com/ITEN-Non-Profit/ITEN-Gyanverse/tree/main) | [ITEN Website](https://iteducationnepal.org)**
+---
+> **Your one hour can become one student's new beginning.**
+> Join ITEN as a volunteer and help us take free computer education to every learner in Nepal: [Volunteer With Us](https://iteducationnepal.org/volunteer/)
 
 ---
 
